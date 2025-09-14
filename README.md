@@ -45,3 +45,5 @@ A **PyQt5 desktop application** to view, edit, and manage the **Table of Content
 -   Page ranges in TOC (`x-y`) are accepted but only the **start page** is stored in the PDF TOC format.
 -   By clicking `Save to PDF` edits are saved directly into the opened PDF (no copy is made).
 -   If you want a backup, Click `Save As...` instead.
+
+&copy; Icon downloaded from https://www.emoji.co.uk
